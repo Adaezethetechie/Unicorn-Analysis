@@ -43,7 +43,7 @@ The reporting layer was designed to provide interactive, executive-level insight
 
 * **DAX Measure Formulation:** Formulated custom measures to calculate ROI Multipliers, YoY Growth (82.3%), and Average Years to $1B dynamically.
 
-
+![Executive Dashboard](https://github.com/Adaezethetechie/Unicorn-Analysis/blob/main/Executive%20Dashboard.png)  
 
 ## 💡 Key Business Insights
 
@@ -83,9 +83,8 @@ Unicorn creation accelerated dramatically over the last decade, with a peak YoY 
 
 * **2022:** 116 new unicorns.
 
-
-
 ### Industry & ROI Performance
+![Industry & Efficiency](https://github.com/Adaezethetechie/Unicorn-Analysis/blob/main/Industry%20%26%20Efficiency.png)  
 
 * **Fastest to $1B:** Auto & Transportation averages 5 years to reach unicorn status, followed closely by AI and Hardware at 6 years.
 
@@ -93,8 +92,9 @@ Unicorn creation accelerated dramatically over the last decade, with a peak YoY 
 * **Highest ROI:** The Fintech sector demonstrates a strong overall ROI Multiplier of 2.82, with individual standouts like *1047 Games* in Internet Software & Services achieving a 15.75 ROI multiplier.
 
 
-
 ### Regional & Investor Landscape
+
+![Investor Network](https://github.com/Adaezethetechie/Unicorn-Analysis/blob/main/Investor%20Network.png)  
 
 * **Regional Timelines:** Time-to-valuation varies significantly by region. For example, African Fintechs average 3 years to reach $1B, while South American Mobile/Telecommunications take up to 20 years.
 
@@ -121,13 +121,13 @@ Unicorn creation accelerated dramatically over the last decade, with a peak YoY 
 ## 📂 Project Structure
 
 ```text
-├── Data/
-│   ├── Unicorn_Companies.csv      # Raw dataset
-│   └── Data_Dictionary.csv        # Dataset schema and descriptions
-├── Dashboard/
-│   └── Solution.pbix              # Fully functional Power BI file
-├── Exports/
-│   └── Solution.pdf               # Static export of dashboard pages
+├── Unicorn_Companies.csv      # Raw dataset
+├── Data_Dictionary.csv        # Dataset schema and descriptions
+├── Power Query - Data Cleaning.png
+├── Executive Dashboard.png
+├── Industry & Efficiency.png
+├── Investor Network.png
+├── LICENSE  
 └── README.md                      # Project documentation
 
 ```
