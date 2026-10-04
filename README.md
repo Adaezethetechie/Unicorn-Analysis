@@ -8,7 +8,8 @@ The dashboard processes data for 1,074 unicorns across 15 distinct industries, r
 
 ## 🛠️️ Data Preparation & ETL (Power Query)
 
-!(Power Query Snapshot)[
+![Power Query Snapshot](https://github.com/Adaezethetechie/Unicorn-Analysis/blob/main/Power%20Query%20-%20Data%20Cleaning.png)  
+
 To ensure accuracy for downstream DAX formulation and data modeling, extensive data cleaning and transformation were performed within the Power Query Editor. The ETL workflow included:
 
 * **Text Standardization:** Applied `Trimmed Text` to remove invisible trailing/leading whitespace and utilized multiple `Replaced Value` steps to strip currency symbols and special characters.
